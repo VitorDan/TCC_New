@@ -1,0 +1,1 @@
+test_size(%),k,mse, rmse, mae, score_train,score_test
